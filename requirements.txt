@@ -5,3 +5,5 @@ jsonify
 ibm-watson
 plotly
 gunicorn==20.1.0
+jinja2
+werkzeug
