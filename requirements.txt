@@ -4,3 +4,4 @@ flask_mysqldb
 jsonify
 ibm-watson
 plotly
+gunicorn==20.1.0
