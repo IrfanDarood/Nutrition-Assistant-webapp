@@ -1,1 +1,1 @@
-web: gunicorn nutribaba:nubribaba
+web: gunicorn app: nubribaba
