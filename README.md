@@ -270,11 +270,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ~~~
 
-## CONTRIBUTORS
-<!-- Copy-paste in your Readme.md file -->
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+## CONTRIBUTORS ✨
+<a href="https://github.com/IrfanDarood/Nutrition-Assistant-webapp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=IrfanDarood/Nutrition-Assistant-webapp" />
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
